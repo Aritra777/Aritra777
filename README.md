@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aritra Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://aritra777.github.io/myPortfolio/assets/portfolio.png" align="center" height="250" width="100%">
 
 - 🌱 I’m currently learning **Node Js**
 
@@ -23,10 +24,10 @@
 <!-- <span ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra777&show_icons=true&locale=en&layout=compact" alt="aritra777" /></span>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="aritra777" /></span> -->
 
-<div style="display:flex; flex-direction:coloum">
+<div style="display:flex; flex-direction:row">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra777&show_icons=true&locale=en&layout=compact" />
-</a><br/>
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
