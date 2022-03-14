@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aritra Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://aritra777.github.io/myPortfolio/assets/portfolio.png" align="center" height="250" width="100%">
+<img src="https://aritra777.github.io/myPortfolio/assets/portfolio.png" align="center" height="400" width="100%">
 
 - 🌱 I’m currently learning **Node Js**
 
