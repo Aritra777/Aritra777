@@ -8,7 +8,7 @@
 
 - ✨ Pursuing B.tech in Computer Science and Enginnering.
 
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://aritra-biswas-aritra777.vercel.app/)
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://myresume007.vercel.app/)
 
 - 💬 Looking for Collaboration in Linkedin [**Aritra Biswas**](https://www.linkedin.com/in/aritra-biswas-13718b228/) 
 
